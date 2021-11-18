@@ -1,0 +1,2 @@
+# AlgoTradingHackathon
+Algo Trading Hackathon
