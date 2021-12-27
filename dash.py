@@ -36,8 +36,7 @@ app.layout = html.Div([
 def update_graph(text_input, run):
     if run == 'Run':
         df= yf.download(text_input)
-    # df = yf.Ticker(selected_dropdown_value)
-    # df = px.data.stocks()
+
 
     figure = {
         'data' : [{
